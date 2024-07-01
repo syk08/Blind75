@@ -1,0 +1,1 @@
+An hash array is kept to keep the records, so while we iterate through it can check and verify. Hence it can be done in o(n) time.
