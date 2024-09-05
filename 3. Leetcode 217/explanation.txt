@@ -1,0 +1,3 @@
+Important pointers:
+1. In this type of cases hash table is always the best.
+2. sorting creates nlogn

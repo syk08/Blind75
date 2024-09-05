@@ -1,0 +1,4 @@
+Mainly store the min, max in array and moving along to ensure O(n). 
+Significance:
+1. Use of index for traversing.
+2. Index for max,min in array.

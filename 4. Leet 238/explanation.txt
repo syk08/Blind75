@@ -1,0 +1,2 @@
+Image shows the math of prefix and postfix
+Follow comment for code
