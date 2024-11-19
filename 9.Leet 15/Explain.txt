@@ -1,0 +1,2 @@
+Here we cant do it in logn or nlogn, so we have to sort the array
+We keep the and increment the value a with outer loop  and do a 2 sum on the remaining by manipulating l and r pointers

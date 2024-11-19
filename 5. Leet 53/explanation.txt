@@ -1,0 +1,2 @@
+1. n^2 solution: i -> n , j=i: j-> n
+2. But we can use prefix to solve this in n. Since any negative sum can be discarded, we will stop at that point and start again.

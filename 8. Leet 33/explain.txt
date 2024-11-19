@@ -1,0 +1,2 @@
+Normal binary search with some checking condition to match the scenario
+Hint: Since logn was required so it must have been binary search
